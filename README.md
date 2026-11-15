@@ -1,0 +1,1 @@
+Download the .html and double click it and voila! a full working programming language emphasizing on simplicity-->having also the capability to highlight the code so that it executes...with no running button use at all! enjoy!
